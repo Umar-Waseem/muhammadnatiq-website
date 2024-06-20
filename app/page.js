@@ -147,7 +147,7 @@ export default function Component() {
                 <CarouselItem className="basis-1/3">
                   <div className="p-1">
                     <Image
-                      src="/next.svg"
+                      src="/vercel.svg"
                       width="200"
                       height="100"
                       alt="Brand Logo"
@@ -169,7 +169,7 @@ export default function Component() {
                 <CarouselItem className="basis-1/3">
                   <div className="p-1">
                     <Image
-                      src="/next.svg"
+                      src="/vercel.svg"
                       width="200"
                       height="100"
                       alt="Brand Logo"
