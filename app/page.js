@@ -26,7 +26,7 @@ export default function Component() {
             </Link>
           </nav>
         </header>
-        <section className="bg-[url('/natiq-sun.jpeg')] bg-cover bg-center min-h-screen flex items-center justify-center">
+        <section className="bg-[url('/natiq-sun.jpeg')] bg-cover bg-right lg:bg-center min-h-screen flex items-center justify-center">
           <div className="container px-4 md:px-6 flex flex-col items-start justify-center">
             <div className="space-y-4 text-center">
               <div className="space-y-2">
@@ -85,7 +85,7 @@ export default function Component() {
         </div>
       </section>
 
-      <section id="achievements" className="relative bg-cover bg-center bg-card py-12 md:py-24 lg:py-32 min-h-screen flex items-center" style={{ backgroundImage: "url('/natiq-5g.jpeg')" }}>
+      <section id="acheivements" className="relative bg-cover bg-center bg-card py-12 md:py-24 lg:py-32 min-h-screen flex items-center" style={{ backgroundImage: "url('/natiq-5g.jpeg')" }}>
         <div className="absolute inset-0 bg-black opacity-50"></div> {/* Black overlay */}
         <div className="container px-4 md:px-6 flex flex-col items-center relative z-10">
           <div className="flex flex-col items-center justify-center space-y-12 text-center w-full">
