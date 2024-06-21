@@ -126,7 +126,7 @@ export default function Component() {
         </div>
       </section>
 
-      <section className="bg-card py-12 md:py-24 lg:py-32 min-h-screen flex items-center">
+      <section className="bg-card px-10 py-12 md:py-24 lg:py-32 min-h-screen flex items-center">
         <div className="container px-4 md:px-6 flex flex-col items-center">
           <div className="flex flex-col items-center justify-center space-y-4 text-center w-full">
             <div className="space-y-2">
